@@ -1,0 +1,6 @@
+framework module Pods_myTouchOne {
+  umbrella header "Pods-myTouchOne-umbrella.h"
+
+  export *
+  module * { export * }
+}
