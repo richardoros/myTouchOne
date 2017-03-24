@@ -7,6 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+import Firebase
+
+
 
 //! Project version number for myTouchOne.
 FOUNDATION_EXPORT double myTouchOneVersionNumber;
