@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import myTouchOne
+
 
 class myTouchOneTests: XCTestCase {
     
